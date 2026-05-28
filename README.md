@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project involves a comprehensive analysis of Uber data using Power BI. The goal is to extract actionable insights regarding trip patterns, peak hours, revenue generation, and user behavior to help optimize operations and improve customer experience.
 
-### 🌟 Live Preview (Screenshots)
+### 🌟 Preview
 | Home Page | Overview Page |
 | :---: | :---: |
 | ![Home](Assets/Home.png) | ![Overview](Assets/Overview.png) |
@@ -49,7 +49,7 @@ This project involves a comprehensive analysis of Uber data using Power BI. The 
 ## 🛠️ How to View
 1. Clone this repository: `git clone https://github.com/your-username/Uber-Data-Analysis.git`
 2. Open `Uber_Data_Analysis_Dashboard.pbix` in **Power BI Desktop**.
-3. (Optional) Update the data source path in Power Query if you move the files.
+3. Update the data source path in Power Query if you move the files.
 
 ---
 
