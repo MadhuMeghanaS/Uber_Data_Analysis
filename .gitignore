@@ -1,0 +1,16 @@
+# Power BI specific
+*.pbix.temp
+*.pbix.copy
+*.pbit
+*.pbi
+*.pbip
+*.pbir
+**/__pycache__
+**/.ipynb_checkpoints
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+
