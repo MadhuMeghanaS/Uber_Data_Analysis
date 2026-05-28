@@ -3,10 +3,21 @@
 ## 📌 Project Overview
 This project involves a comprehensive analysis of Uber data using Power BI. The goal is to extract actionable insights regarding trip patterns, peak hours, revenue generation, and user behavior to help optimize operations and improve customer experience.
 
-### 🌟 Preview
-| Home Page | Overview Page |
-| :---: | :---: |
-| ![Home](Assets/Home.png) | ![Overview](Assets/Overview.png) |
+### 🌟 Dashboard Preview
+
+<details>
+  <summary>🎯 <b>Home</b></summary>
+  <br>
+  <img src="Assets/Home.png" alt="Home Page" width="100%">
+</details>
+
+<br>
+
+<details>
+  <summary>📊 <b>Overview</b></summary>
+  <br>
+  <img src="Assets/Overview.png" alt="Overview Page" width="100%">
+</details>
 
 ---
 
